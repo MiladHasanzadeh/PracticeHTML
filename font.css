@@ -1,0 +1,82 @@
+.p1
+{
+	
+	color:yellow;
+	font-size:35;
+}
+.p2
+{	
+	font-size:30;
+	color:red;
+	direction:rtl;
+}
+.p3
+{
+	
+	font-size:25;
+	color:yellow;
+}
+#p3
+{
+	width:200;
+	height:815;
+	background-color:red;
+	float:right;
+}
+#p4
+{
+	width:200;
+	height:815;
+	background-color:red;
+	float:left;
+}
+#p5
+{
+	width:200;
+	height:200;
+	background-color:red;
+	float:content;
+	
+	
+}
+#container
+{
+	width:1300;
+	margin:0 auto 0;
+}
+#header
+{
+	width:100%;
+	height:150;
+	background-color:black;
+}
+#left
+{
+	width:15%;
+	height:500;
+	float:left;
+	background-color:black;
+	
+}
+#content
+{
+	width:63%;
+	height:500;
+	float:left;
+	background-color:blue;
+	
+}
+#right
+{
+	width:22%;
+	height:500;
+	float:left;
+	background-color:black;
+}
+#footer
+{
+	width:100%;
+	height:150;
+	background-color:black;
+	clear: both;
+}
